@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,d as e,e as n}from"./app-PrvqUoBY.js";const o={},r=e("h1",{id:"个人使用-linux-的一些记录",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#个人使用-linux-的一些记录","aria-hidden":"true"},"#"),n(" 个人使用 "),e("code",null,"Linux"),n(" 的一些记录")],-1),s=[r];function d(i,_){return a(),c("div",null,s)}const h=t(o,[["render",d],["__file","index.html.vue"]]);export{h as default};

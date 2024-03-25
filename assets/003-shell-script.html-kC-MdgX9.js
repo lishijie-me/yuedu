@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-329168e8","path":"/blog/linux/003-shell-script.html","title":"Linux 脚本编写","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"blog/linux/003-shell-script.md"}');export{t as data};

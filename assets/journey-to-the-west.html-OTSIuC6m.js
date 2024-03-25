@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7e363860","path":"/blog/reading/journey-to-the-west.html","title":"《西游记》读后感","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"blog/reading/journey-to-the-west.md"}');export{e as data};

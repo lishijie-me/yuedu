@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5ab2274e","path":"/blog/architect/","title":"进击的架构师","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"在这里留下学习架构进阶训练营的一些笔记和沉淀","slug":"在这里留下学习架构进阶训练营的一些笔记和沉淀","link":"#在这里留下学习架构进阶训练营的一些笔记和沉淀","children":[]}],"git":{},"filePathRelative":"blog/architect/README.md"}');export{t as data};

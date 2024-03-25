@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-edf854a0","path":"/blog/architect/E-Architecture.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"blog/architect/E-Architecture.md"}');export{t as data};

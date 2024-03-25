@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0963739e","path":"/blog/interview/myresume.html","title":"我的简历娃娃阿瓦啊","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"技能","slug":"技能","link":"#技能","children":[]},{"level":2,"title":"项目","slug":"项目","link":"#项目","children":[]}],"git":{},"filePathRelative":"blog/interview/myresume.md"}');export{e as data};

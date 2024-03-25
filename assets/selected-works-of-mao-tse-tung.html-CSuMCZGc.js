@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4a22a656","path":"/blog/reading/selected-works-of-mao-tse-tung.html","title":"《毛泽东选集（第一卷）》读后感","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"blog/reading/selected-works-of-mao-tse-tung.md"}');export{e as data};

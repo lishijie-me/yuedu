@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-3bd7ca6a","path":"/blog/reading/the-art-of-war.html","title":"《孙子兵法》读后感","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"blog/reading/the-art-of-war.md"}');export{a as data};

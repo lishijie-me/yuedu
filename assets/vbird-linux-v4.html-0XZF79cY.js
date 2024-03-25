@@ -1,0 +1,1 @@
+const l=JSON.parse('{"key":"v-3af847a6","path":"/blog/reading/vbird-linux-v4.html","title":"《鸟哥的 Linux 私房菜（第四版）》","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"读后感","slug":"读后感","link":"#读后感","children":[]},{"level":2,"title":"去哪看","slug":"去哪看","link":"#去哪看","children":[]}],"git":{},"filePathRelative":"blog/reading/vbird-linux-v4.md"}');export{l as data};

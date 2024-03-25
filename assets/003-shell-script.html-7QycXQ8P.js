@@ -1,0 +1,1 @@
+import{_ as c,o as a,c as n,d as e,e as t}from"./app-PrvqUoBY.js";const r={},s=e("h1",{id:"linux-脚本编写",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#linux-脚本编写","aria-hidden":"true"},"#"),t(),e("code",null,"Linux"),t(" 脚本编写")],-1),o=[s];function l(_,i){return a(),n("div",null,o)}const h=c(r,[["render",l],["__file","003-shell-script.html.vue"]]);export{h as default};

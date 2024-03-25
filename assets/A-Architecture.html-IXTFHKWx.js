@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-525a4eac","path":"/blog/architect/A-Architecture.html","title":"架构范畴","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"blog/architect/A-Architecture.md"}');export{t as data};

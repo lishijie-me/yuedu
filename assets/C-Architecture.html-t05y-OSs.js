@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,d as o}from"./app-PrvqUoBY.js";const r={},_=o("p",null,"发更好的风格和",-1),s=[_];function n(a,l){return t(),c("div",null,s)}const d=e(r,[["render",n],["__file","C-Architecture.html.vue"]]);export{d as default};

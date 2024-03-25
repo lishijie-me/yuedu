@@ -1,0 +1,1 @@
+const l=JSON.parse('{"key":"v-78715137","path":"/blog/linux/002-soft-install.html","title":"Linux 软件安装","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"是的是的","slug":"是的是的","link":"#是的是的","children":[]}],"git":{},"filePathRelative":"blog/linux/002-soft-install.md"}');export{l as data};
